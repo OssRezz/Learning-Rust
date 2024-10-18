@@ -1,0 +1,5 @@
+Nombre: James, Edad: 28
+Nombre: David, Edad: 24
+Nombre: Jorge, Edad: 30
+Nombre: Mauricio, Edad: 12
+Nombre: Carolina, Edad: 30
