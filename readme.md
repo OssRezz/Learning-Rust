@@ -4,7 +4,7 @@
 
 - Lenguaje de programacion de sistema, significa que no esta pensado para hacer aplicaciones de interfaz grafica. Su enfoque esta en drivers, sistemas operativos... etc.
 
-- El creador de Rust en Mozilla.
+- El creador de Rust es Mozilla.
 
 - Seguro, practico, pensado en la concurrencia y confiable.
 
